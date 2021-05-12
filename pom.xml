@@ -7,7 +7,7 @@
   
   <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<version.org.springframework.security>4.2.3.RELEASE</version.org.springframework.security>
+		<version.org.springframework.security>5.2.10.RELEASE</version.org.springframework.security>
 		<version.org.springframework>4.3.9.RELEASE</version.org.springframework>
 		<version.com.sun.jersey.json>1.19.4</version.com.sun.jersey.json>
 		<version.org.glassfish.jersey>2.26</version.org.glassfish.jersey>
